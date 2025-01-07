@@ -1,8 +1,7 @@
 ![Easy to write, Fast Performance](https://github.com/user-attachments/assets/1be46de0-f76e-40b4-8e9b-7bf7a10eb161)
 
 [![Download zip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
-<br /> <br />
- [![Download zip](https://img.shields.io/badge/Code-green)](https://github.com/Fries-byte/Go.js/main/README.md#) <br /> 
+<br />
 <br />
 # What is Go.js? <br />
 **Go.js is still in beta, thus it can give you code that dosent work, be aware.** <br /> <br />
