@@ -2,7 +2,7 @@
 
 [![Download zip](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "Download Zip")](https://github.com/sebastian-sestaliuc/Go.js/releases/tag/v1) 
 <br /> <br />
- [![Download zip](https://img.shields.io/badge/Code-green)](https://github.com/GoPorts/Go.js#-code-copy-paste) <br /> 
+ [![Download zip](https://img.shields.io/badge/Code-green)](#Copy) <br /> 
 <br />
 # What is Go.js? <br />
 **Go.js is still in beta, thus it can give you code that dosent work, be aware.** <br /> <br />
@@ -43,7 +43,7 @@ more info by scrolling down <br /> <br />
 ‎‎   ◦ Go.js is still under development. <br />
 ‎‎   ◦ Go.js can only be used on DevTools (Inspect > Console), since its code also has prompts.
 
-# • Code, copy paste
+#Copy
  [![Download zip](https://img.shields.io/badge/Version-v1.1.1-blue)](https://github.com/GoPorts) <br /> 
  
 ```js
